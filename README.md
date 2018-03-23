@@ -8,7 +8,7 @@ To create a simple smart-contract DAPP that will help manage allowance distribut
 # Use Cases
 * Parent initiates the contract
 * Parent adds children (1 or more)
-* Parent adds tokens to their account
+* Parent seeds their personal 'bank account' with tokens that represent the currency of their choice
 * Child requests allowance
 * Allowance is approved and dispersed to the child 'account'
 
